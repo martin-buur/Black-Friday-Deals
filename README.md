@@ -65,9 +65,6 @@ Powerful SSH terminal and SFTP file access for iOS & Mac.
 
 A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
 
-### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
-
-All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -129,9 +126,6 @@ Avoid those awkward moments in public places or in presentation meetings in 1-cl
 
 Easy view of up to 5 different timezones in your menubar.
 
-### 💸 [TypingMind](https://typingmind.com) - 55% OFF Lifetime for Premium plan, BLACKFRIDAY2024
-
-Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
 
 <p>&nbsp;</p>
 
@@ -212,6 +206,10 @@ Braindump your thoughts - It turns your stream of thoughts from speech into well
 ### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
 
 Easily capture your thoughts & ideas on iOS, macOS & visionOS.
+
+### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
+
+Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
 <p>&nbsp;</p>
 
